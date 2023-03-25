@@ -1,0 +1,20 @@
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Dependencies
+venv/
+*.egg-info/
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# MISC
+.env
+
+# IDE
+.idea/*
